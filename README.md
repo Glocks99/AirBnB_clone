@@ -10,7 +10,7 @@ retrieve an object from a file or database
 perform operations on an object
 update attributes of an object
 destroy an object
-To use it, clone the repository to your local machine: git clone https://github.com/Fredasante/AirBnB_clone.git
+To use it, clone the repository to your local machine: git clone https://github.com/Glocks99/AirBnB_clone.git
 
 To start it, run the command: ./console.py You are now ready to use the console to manipulate your AirBnB objects.
 
